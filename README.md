@@ -15,6 +15,7 @@ Finding great companies to work for is hard - especially in Europe. I curated a 
 | Name | Description | Locations | Entry Pay |
 |----------|----------|----------| ----------|
 |[JaneStreet](https://www.janestreet.com/)   | Hedge fund with a very strong focus on developing in-house technologies and innovations. | 🇺🇸 **New York**; 🇬🇧 London; 🇸🇬 Singapore; 🇨🇳 Hong Kong | `>150k£` |
+| [WorldQuant](https://www.worldquant.com/) | Hedge fund with a strong quantitative focus. | 27 Offices, inter alia in 🇺🇸 **Major US Cities**; 🇨🇭 Zug, Geneva; 🇭🇺 Budapest; 🇫🇷 Paris; 🇬🇧 London; 🇦🇪 Dubai; 🇨🇳 Major Asian Cities | `>150k€` |
 
 
 
