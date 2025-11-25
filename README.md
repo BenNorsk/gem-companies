@@ -8,5 +8,5 @@ Finding great companies to work for is hard - especially in Europe. I curated a 
 
 | Name | Description | Locations |
 |----------|----------|----------|
-| Rasmussen Global       | TBD       | **Copenhagen🇩🇰**, London🇬🇧, Kyiew 🇺🇦, Washington🇺🇸, Brussels🇧🇪       |
+| [Rasmussen Global](https://rasmussenglobal.com/)    | Geopolitical advisory founded by the former NATO Sec. Gen. They advise governments on Defence and defence-adjacent topics such as AI or Space.       | **Copenhagen 🇩🇰** London 🇬🇧 Kyiew 🇺🇦 Washington 🇺🇸 Brussels 🇧🇪       |
 | A2       | B2       | C2       |
